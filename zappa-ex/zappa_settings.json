@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "zappa-ex",
+        "runtime": "python3.7",
+        "s3_bucket": "indy-web-conf-2019"
+        "slim_handler": "true"
+    }
+}
