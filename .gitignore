@@ -105,3 +105,4 @@ venv.bak/
 .chalice
 .vscode
 .db
+*.swp
